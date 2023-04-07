@@ -6,6 +6,8 @@
 - 📫 How to reach me: email me @ aswinvibushan848@gmail.com or Ph: 9790326149
 - ⚡ Fun fact: The letter J does not appear anywhere on the periodic table of the elements.
 
+Thanks for visiting!
+
 <!--
 **StruVi/StruVi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
